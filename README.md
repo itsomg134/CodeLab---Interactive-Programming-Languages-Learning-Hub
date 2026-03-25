@@ -7,7 +7,7 @@
 
 **A hands-on, browser-based coding playground for learning multiple programming languages through interactive experimentation.**
 
-[Live Demo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/codelab/issues) • [Request Feature](https://github.com/yourusername/codelab/issues)
+![Screenshot_25-3-2026_233126_127 0 0 1](https://github.com/user-attachments/assets/e50a430a-a910-43a6-9ccc-e55df5c29b35)
 
 ---
 
